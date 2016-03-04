@@ -1,2 +1,2 @@
 git-it description readme.txt
-some more text
+some more text, check diffs
